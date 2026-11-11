@@ -1,0 +1,9 @@
+{
+  "name": "aither-sandbox",
+  "version": "1.0.0",
+  "description": "A tiny utility library with real, small bugs, for Aither's house agents to fix through paid bounties.",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test" }
+}
